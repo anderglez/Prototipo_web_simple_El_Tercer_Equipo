@@ -1,7 +1,11 @@
 # Declaración sobre el uso de Inteligencia Artificial (IA)
 
 **Proyecto:** El Tercer Equipo  
-**Asignatura:** Introducción a la Web — Entrega E1  
+**Asignatura:** Ingeniería Web — Entrega E1  
+
+---
+
+URL a mi web: https://el-tercer-equipo.netlify.app/
 
 ---
 
